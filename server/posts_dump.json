@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6990db809a36d58cb9fce248",
+    "user": "698f7e99603690d2bc52bf15",
+    "image": "/uploads/posts/1771101054372-507819323.mp4",
+    "mediaType": "video",
+    "thumbnail": null,
+    "caption": "",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2026-02-14T20:30:56.669Z",
+    "updatedAt": "2026-02-14T20:30:56.669Z",
+    "__v": 0
+  },
+  {
+    "_id": "6990d91d7928d539ac87252e",
+    "user": "698f7e99603690d2bc52bf15",
+    "image": "/uploads/posts/1771100444515-555630228.mp4",
+    "mediaType": "video",
+    "thumbnail": null,
+    "caption": "",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2026-02-14T20:20:45.367Z",
+    "updatedAt": "2026-02-14T20:20:45.367Z",
+    "__v": 0
+  },
+  {
+    "_id": "69904393d2620231d1ae3fa3",
+    "user": "698f7e99603690d2bc52bf15",
+    "image": "/uploads/posts/compressed-1771062117748-299926003.mp4",
+    "mediaType": "video",
+    "thumbnail": "/uploads/posts/thumb-1771062117748-299926003.jpg",
+    "caption": "",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2026-02-14T09:42:43.311Z",
+    "updatedAt": "2026-02-14T09:42:43.311Z",
+    "__v": 0
+  },
+  {
+    "_id": "69904333d2620231d1ae3f94",
+    "user": "698f7e99603690d2bc52bf15",
+    "image": "/uploads/posts/compressed-1771062037557-306114491.mp4",
+    "mediaType": "video",
+    "thumbnail": "/uploads/posts/thumb-1771062037557-306114491.jpg",
+    "caption": "",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2026-02-14T09:41:07.437Z",
+    "updatedAt": "2026-02-14T09:41:07.437Z",
+    "__v": 0
+  },
+  {
+    "_id": "699042a0d2620231d1ae3f7f",
+    "user": "698f7e99603690d2bc52bf15",
+    "image": "/uploads/posts/compressed-1771061871812-657757200.mp4",
+    "mediaType": "video",
+    "thumbnail": "/uploads/posts/thumb-1771061871812-657757200.jpg",
+    "caption": "",
+    "likes": [],
+    "comments": [],
+    "createdAt": "2026-02-14T09:38:40.996Z",
+    "updatedAt": "2026-02-14T09:38:40.996Z",
+    "__v": 0
+  }
+]
