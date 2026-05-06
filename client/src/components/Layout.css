@@ -1,0 +1,40 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+}
+
+.desktop-layout {
+    flex-direction: row;
+}
+
+.mobile-layout {
+    flex-direction: column;
+}
+
+.main-content {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.desktop-main {
+    margin-left: 245px;
+    padding: var(--spacing-lg);
+}
+
+.mobile-main {
+    margin-top: calc(56px + var(--safe-area-top));
+    margin-bottom: calc(49px + var(--safe-area-bottom));
+    padding: 0;
+}
+
+@media (max-width: 1264px) {
+    .desktop-main {
+        margin-left: 72px;
+    }
+}
+
+@media (max-width: 768px) {
+    .desktop-main {
+        margin-left: 0;
+    }
+}

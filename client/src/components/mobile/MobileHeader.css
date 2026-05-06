@@ -1,0 +1,58 @@
+.mobile-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: calc(56px + var(--safe-area-top));
+    padding-top: var(--safe-area-top);
+    background: var(--bg-primary);
+    border-bottom: 0.5px solid var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: var(--spacing-lg);
+    padding-right: var(--spacing-lg);
+    z-index: 100;
+}
+
+.mobile-logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: var(--text-primary);
+}
+
+.mobile-logo svg {
+    width: 103px;
+    height: 29px;
+}
+
+.mobile-header-actions {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+}
+
+.mobile-header-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-primary);
+    cursor: pointer;
+    padding: var(--spacing-xs);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
+    border-radius: 50%;
+    transition: all var(--transition-fast);
+}
+
+.mobile-header-btn:active {
+    background: var(--bg-secondary);
+    transform: scale(0.95);
+}
+
+.mobile-header-btn svg {
+    flex-shrink: 0;
+}

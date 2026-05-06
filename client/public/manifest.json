@@ -1,0 +1,17 @@
+{
+    "short_name": "Instagram",
+    "name": "Instagram Clone",
+    "icons": [
+        {
+            "src": "/vite.svg",
+            "type": "image/svg+xml",
+            "sizes": "any"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000",
+    "description": "An Instagram clone built with React and Node.js"
+}
